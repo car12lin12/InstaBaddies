@@ -4,7 +4,7 @@
 *
 *
 *
-*
+* Stella Nguyen - @stellakimnguyen
 * Carlin Lee - @car12lin12
 
 ## Languages
