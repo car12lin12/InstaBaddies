@@ -11,6 +11,6 @@
 Javascript and / or Python (TBD)
 
 ## Techniques
-React and / or Django (TBD)
-Node.js (TBD)
-Aut0 or Facebook Login (TBD)
+* React and / or Django (TBD)
+* Node.js (TBD)
+* Aut0 or Facebook Login (TBD)
