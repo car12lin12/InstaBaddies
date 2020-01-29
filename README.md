@@ -22,5 +22,5 @@ Javascript and / or Python (TBD)
 | Frontend (TBD)        | React.js and / or Django |
 | Backend (TBD)         | Node.js or Django        |
 | Authentication (TBD)  | Auth0 or Facebook Login  |
-| Database (TBD)        |                          |
+| Database (TBD)        | Firebase or MySQL        |
 | CI (TBD)              | Jenkins                  |
