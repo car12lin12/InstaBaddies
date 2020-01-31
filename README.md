@@ -7,7 +7,7 @@ InstaB@ddies aims to create a simplified Instagram clone that allows users to vi
 * Comment on an uploaded picture
 
 ## Members :bust_in_silhouette:
-*Jamil - @jam009
+*Jamil Hirsh- @jam009
 *
 * Yordan Pramatarov - @YordanEvro
 * Stella Nguyen - @stellakimnguyen
@@ -17,11 +17,15 @@ InstaB@ddies aims to create a simplified Instagram clone that allows users to vi
 Javascript and / or Python (TBD)
 
 ## Techniques :octocat:
-| Scope                 | Techniques               |
-| --------------        |:-----------------------: |
-| Frontend (TBD)        | React.js and / or Django |
-| Backend (TBD)         | Node.js or Django        |
-| Authentication (TBD)  | Auth0 or Facebook Login  |
-| Database (TBD)        | Firebase or MySQL        |
-| CI (TBD)              | Jenkins                  |
-| Platform              | Website                  |
+| Scope                 | Techniques                      |
+| --------------        |:-----------------------:        |
+| Frontend (TBD)        | React.js                        |
+| Backend (TBD)         | Node.js or Python               |
+| Framework             | Django or Flask                 |
+| Authentication (TBD)  | Auth0 or Facebook Login         |
+| Database (TBD)        | Firebase or MySQL or MongoDB    |
+| CI (TBD)              | Jenkins                         |
+| Platform              | Web                             |
+
+                 |
+
