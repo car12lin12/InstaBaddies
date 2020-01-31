@@ -7,8 +7,8 @@ InstaB@ddies aims to create a simplified Instagram clone that allows users to vi
 * Comment on an uploaded picture
 
 ## Members :bust_in_silhouette:
-*Jamil Hirsh- @jam009
-*
+* 
+* Jamil Hirsh - @jam009
 * Yordan Pramatarov - @YordanEvro
 * Stella Nguyen - @stellakimnguyen
 * Carlin Lee - @car12lin12
