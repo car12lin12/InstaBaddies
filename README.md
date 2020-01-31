@@ -25,7 +25,4 @@ Javascript and / or Python (TBD)
 | Authentication (TBD)  | Auth0 or Facebook Login         |
 | Database (TBD)        | Firebase or MySQL or MongoDB    |
 | CI (TBD)              | Jenkins                         |
-| Platform              | Web                             |
-
-                 |
-
+| Platform              | Web                             |    
