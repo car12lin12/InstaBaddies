@@ -26,6 +26,7 @@ Javascript and / or Python (TBD)
 | --------------        |:-----------------------:        |
 | Frontend (TBD)        | React.js                        |
 | Backend (TBD)         | Node.js or Python               |
+| Framework             | Django or Flask                 |
 | Authentication (TBD)  | Auth0 or Facebook Login         |
 | Database (TBD)        | Firebase or MySQL or MongoDB    |
 | CI (TBD)              | Jenkins                         |
