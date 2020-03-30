@@ -12,4 +12,4 @@ deploy:
   on:
     branches:
       only:
-        - master
+        - production
