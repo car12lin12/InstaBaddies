@@ -11,5 +11,4 @@ deploy:
   local_dir: build
   on:
     branches:
-      only:
-        - production
+      all_branches: false
